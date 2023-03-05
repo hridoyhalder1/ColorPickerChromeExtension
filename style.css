@@ -6,12 +6,12 @@
     box-sizing: border-box;
     font-family: 'Lato', sans-serif;
 }
-/* body{
+body{
     display: flex;
     align-items: center;
     justify-content: center;
     min-height: 100vh;
-} */
+}
 .popup{
     width: 350px;
 }
